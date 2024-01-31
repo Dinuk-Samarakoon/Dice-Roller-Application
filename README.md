@@ -1,3 +1,3 @@
-# Mobile Application
-Language - Kotlin
+### Mobile Application
+Language - Kotlin<br>
 IDE - Android Studio
